@@ -27,7 +27,11 @@ The summary until **SOHO-4000** is available [HERE](https://github.com/mbiesiad/
 
 Sorted table, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/until-SOHO-4000-sorted.csv).
 
-Congrats for All! ⭐
+*Note: Not necessary Σ to 4k etc (please remember about co-discoveries).*
+
+---
+
+Congratulations to you all! ⭐
 
 ## Disclaimer
 I can't guarantee a 100% completeness and correctness of the data. I expressly reject any claims against me due to incorrect data (see sources).
