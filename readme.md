@@ -14,7 +14,8 @@ Extension of the project [nasa-comets](https://github.com/mbiesiad/nasa-comets).
 
 Data from [nasa-comets](https://github.com/mbiesiad/nasa-comets), also from the official [Sungrazer site](https://sungrazer.nrl.navy.mil/).
 
-Please treat it more as a preview. If you see something incorrect, feel free to contact me or create an issue/PR.
+Please treat it more as a `preview`. If you see something incorrect, feel free to contact me or create an issue/PR.
+`data-set` files here are mostly partial. The full data-sets can be found in `summary`.
 
 Listed discoverers & their SOHO discoveries. Credits: ESA/NASA SOHO/LASCO, Sungrazer Project
 
