@@ -1,9 +1,32 @@
 # SOHO Comet Discoverers
 
-Extension of the project [nasa-comets](https://github.com/mbiesiad/nasa-comets).
+Extension of the project [nasa-comets](https://github.com/mbiesiad/nasa-comets). ⭐
 
 ## Content
-[WIP]
+* [Intro](#intro)
+* [Summary](#summary)
+* [Disclaimer](#disclaimer)
+* [Contributing](#contributing)
+* [Code of Conduct](#code-of-conduct)
+* [License](#license)
+
+## Intro
+
+Data from [nasa-comets](https://github.com/mbiesiad/nasa-comets), also from the official [Sungrazer site](https://sungrazer.nrl.navy.mil/).
+
+Please treat it more as a preview. If you see something incorrect, feel free to contact me or create an issue/PR.
+
+Listed discoverers & their SOHO discoveries. Credits: ESA/NASA SOHO/LASCO, Sungrazer Project
+
+## Summary
+
+* Until SOHO-4000
+
+The summary until **SOHO-4000** is available [HERE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/until-SOHO-4000.csv).
+
+Sorted table, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/until-SOHO-4000-sorted.csv).
+
+Congrats for All! ⭐
 
 ## Disclaimer
 I can't guarantee a 100% completeness and correctness of the data. I expressly reject any claims against me due to incorrect data (see sources).
@@ -33,8 +56,8 @@ __________________________________________________
 
 Reports by @[Karl Battams](https://twitter.com/SungrazerComets) (Dr Sungrazer)
 
-Created by @[mbiesiad](https://github.com/mbiesiad) & supported by awesome [contributors](https://github.com/mbiesiad/soho-comet-discoverers/graphs/contributors)!
+Created by @[mbiesiad](https://github.com/mbiesiad) & supported by awesome [contributors](https://github.com/mbiesiad/soho-comet-discoverers/graphs/contributors)! 🚀
 
-See also another project about [my discoveries](https://github.com/mbiesiad/discoveries-biesiada).
+See also another project about [nasa-comets](https://github.com/mbiesiad/nasa-comets) or [my discoveries](https://github.com/mbiesiad/discoveries-biesiada).
 
-Last updated: 1/7/2020
+Last updated: 8/7/2020
