@@ -52,6 +52,8 @@ Included data from 1996 to 2020 (June).
 
 o [table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Meyer/summary/summary-1.csv)
 
+o [sorted table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Meyer/summary/summary-1-sorted.csv)
+
 ## Marsden
 - [Marsden](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Marsden)
 
@@ -64,10 +66,14 @@ o [sorted table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/
 
 o [table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Kracht/summary/summary-1.csv)
 
+o [sorted table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Kracht/summary/summary-1-sorted.csv)
+
 ## Kracht-II
 - [Kracht-II](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Kracht-II)
 
 o [table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Kracht-II/summary/summary-1.csv)
+
+o [sorted table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Kracht-II/summary/summary-1-sorted.csv)
 
 Please remember - there is no included 'NonGroup' comets for instance and the data depends of data from the site (sometimes are not added yet), so the numbers may be sometimes little different. Published on date: 2020-7-9
 
