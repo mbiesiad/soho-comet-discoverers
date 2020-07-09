@@ -15,6 +15,8 @@ If you want add or improve something - just make a fork & PR, fell free.
 
 ✅ It would be interesting to create statistics for individual years, it would also show the activity of discoverers in given years [separate catalog]
 
+The basic data format should be `csv` here.
+
 _Update: last updated 2020/7/8_
 
 ## Translations
