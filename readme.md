@@ -83,7 +83,7 @@ o [table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonGrou
 
 o [sorted table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonGroup/summary/summary-1-sorted.csv)
 
-Please remember - there is no included 'NonGroup' comets for instance and the data depends of data from the site (sometimes are not added yet), so the numbers may be sometimes little different. Published on date: 2020-7-9
+Please remember - the data depends of data from the site (sometimes are not added yet), so the numbers may be sometimes little different. Published on date: 2020-7-9
 
 ---
 
