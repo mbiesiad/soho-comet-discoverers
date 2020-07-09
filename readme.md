@@ -22,11 +22,15 @@ Listed discoverers & their SOHO discoveries. Credits: ESA/NASA SOHO/LASCO, Sungr
 
 ## Summary for SOHO
 
+## Sungrazers
+
 * Until SOHO-4000 - **sungrazers** (Kreutz + NonKreutz: Meyer, Kracht, Kracht II, Marsden, below):
 
 o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/sungrazers-1.csv)
 
 o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/sungrazers-1-sorted.csv)
+
+## Kreutz
 
 * Until SOHO-4000 - for **Kreutz** group
 
@@ -38,19 +42,29 @@ Included data from 1996 to 2020 (June).
 
 *Note: Not necessary Σ to 4k etc (please remember about co-discoveries).*
 
+## NonKreutz
+
 * Until SOHO-4000 - for **NonKreutz** group, [here](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz)
+
+## Meyer
 
 - [Meyer](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Meyer)
 
 o [table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Meyer/summary/summary-1.csv)
+
+## Marsden
 - [Marsden](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Marsden)
 
 o [table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Marsden/summary/summary-1.csv)
 
 o [sorted table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Marsden/summary/summary-1-sorted.csv)
+
+## Kracht
 - [Kracht](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Kracht)
 
 o [table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Kracht/summary/summary-1.csv)
+
+## Kracht-II
 - [Kracht-II](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Kracht-II)
 
 o [table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Kracht-II/summary/summary-1.csv)
