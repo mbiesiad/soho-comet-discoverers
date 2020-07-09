@@ -36,9 +36,19 @@ Included data from 1996 to 2020 (June).
 - [here](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz)
 
 - [Meyer](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Meyer)
+
+[table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Meyer/summary/summary-1.csv)
 - [Marsden](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Marsden)
+
+[table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Marsden/summary/summary-1.csv)
+
+[sorted table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Marsden/summary/summary-1-sorted.csv)
 - [Kracht](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Kracht)
+
+[table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Kracht/summary/summary-1.csv)
 - [Kracht-II](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Kracht-II)
+
+[table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Kracht-II/summary/summary-1.csv)
 
 ---
 
