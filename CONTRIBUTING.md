@@ -7,13 +7,13 @@ If you want add or improve something - just make a fork & PR, fell free.
 
 ## TODO
 
-✅ Good to see - languages versions.
+✅ Good to see - languages versions [ie. 'locale' directory].
 
-✅ Add more formats (ie. json, xml).
+✅ Add more formats (ie. json, xml) [separate catalog].
 
 ✅ Add discoveries for >=2016
 
-✅ It would be interesting to create statistics for individual years, it would also show the activity of discoverers in given years
+✅ It would be interesting to create statistics for individual years, it would also show the activity of discoverers in given years [separate catalog]
 
 _Update: last updated 2020/7/8_
 
