@@ -13,6 +13,8 @@ If you want add or improve something - just make a fork & PR, fell free.
 
 ✅ Add discoveries for >=2016
 
+✅ It would be interesting to create statistics for individual years, it would also show the activity of discoverers in given years
+
 _Update: last updated 2020/7/8_
 
 ## Translations
