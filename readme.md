@@ -27,6 +27,8 @@ The summary until **SOHO-4000** is available [HERE](https://github.com/mbiesiad/
 
 Sorted table, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/until-SOHO-4000-sorted.csv).
 
+Included data from 1996 to 2020 (June).
+
 *Note: Not necessary Σ to 4k etc (please remember about co-discoveries).*
 
 ---
