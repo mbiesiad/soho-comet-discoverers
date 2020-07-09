@@ -22,6 +22,12 @@ Listed discoverers & their SOHO discoveries. Credits: ESA/NASA SOHO/LASCO, Sungr
 
 ## Summary for SOHO
 
+* Until SOHO-4000 - sungrazers (Kreutz + NonKreutz: Meyer, Kracht, Kracht II, Marsden, below):
+
+[TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/sungrazers-1.csv)
+
+[SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/sungrazers-1-sorted.csv)
+
 * Until SOHO-4000 - for Kreutz group
 
 The summary until **SOHO-4000** is available [HERE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/until-SOHO-4000.csv).
@@ -49,10 +55,6 @@ Included data from 1996 to 2020 (June).
 - [Kracht-II](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Kracht-II)
 
 [table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Kracht-II/summary/summary-1.csv)
-
-* Until SOHO-4000 - sungrazers (Kreutz + NonKreutz: Meyer, Kracht, Kracht II, Marsden, above):
-[TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/sungrazers-1.csv)
-[SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/sungrazers-1-sorted.csv)
 
 Please remember - there is no included 'NonGroup' comets for instance and the data depends of data from the site (sometimes are not added yet), so the numbers maybe sometimes little different. Published on date: 2020-7-9
 
