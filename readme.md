@@ -84,6 +84,4 @@ Created by @[mbiesiad](https://github.com/mbiesiad) & supported by awesome [cont
 
 See also another project about [nasa-comets](https://github.com/mbiesiad/nasa-comets) or [my discoveries](https://github.com/mbiesiad/discoveries-biesiada).
 
-Project about SOHO & STEREO discoverers [here](https://github.com/mbiesiad/soho-comet-discoverers).
-
 Last updated: 8/7/2020
