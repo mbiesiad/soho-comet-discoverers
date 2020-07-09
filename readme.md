@@ -50,6 +50,12 @@ Included data from 1996 to 2020 (June).
 
 [table](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Kracht-II/summary/summary-1.csv)
 
+* Until SOHO-4000 - sungrazers (Kreutz + NonKreutz: Meyer, Kracht, Kracht II, Marsden, above):
+[TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/sungrazers-1.csv)
+[SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/sungrazers-1-sorted.csv)
+
+Please remember - there is no included 'NonGroup' comets for instance and the data depends of data from the site (sometimes are not added yet), so the numbers maybe sometimes little different. Published on date: 2020-7-9
+
 ---
 
 Congratulations to you all! ⭐
