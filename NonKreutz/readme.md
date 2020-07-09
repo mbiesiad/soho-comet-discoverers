@@ -1,3 +1,9 @@
+# Meyer
+Meyer data from: https://github.com/mbiesiad/nasa-comets/blob/master/meyer/meyer.csv
+(2020-7-9)
+
+Table: 
+[here](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/NonKreutz/Meyer/summary/summary-1.csv)
 
 # Marsden
 Marsden data from: https://github.com/mbiesiad/nasa-comets/blob/master/marsden/marsden.csv
