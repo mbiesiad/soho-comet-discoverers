@@ -22,7 +22,7 @@ Listed discoverers & their SOHO discoveries. Credits: ESA/NASA SOHO/LASCO, Sungr
 
 ## Summary for SOHO
 
-* Until SOHO-4000
+* Until SOHO-4000 - for Kreutz group
 
 The summary until **SOHO-4000** is available [HERE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/until-SOHO-4000.csv).
 
@@ -31,6 +31,14 @@ Sorted table, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/mas
 Included data from 1996 to 2020 (June).
 
 *Note: Not necessary Σ to 4k etc (please remember about co-discoveries).*
+
+* Until SOHO-4000 - for NonKreutz group
+- [here](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz)
+
+- [Meyer](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Meyer)
+- [Marsden](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Marsden)
+- [Kracht](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Kracht)
+- [Kracht-II](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/NonKreutz/Kracht-II)
 
 ---
 
