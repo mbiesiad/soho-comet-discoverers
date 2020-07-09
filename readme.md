@@ -4,7 +4,8 @@ Extension of the project [nasa-comets](https://github.com/mbiesiad/nasa-comets).
 
 ## Content
 * [Intro](#intro)
-* [Summary](#summary)
+* [Summary for SOHO](#summary-for-soho)
+* [Summary for STEREO](#summary-for-stereo)
 * [Disclaimer](#disclaimer)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
@@ -19,7 +20,7 @@ Please treat it more as a `preview`. If you see something incorrect, feel free t
 
 Listed discoverers & their SOHO discoveries. Credits: ESA/NASA SOHO/LASCO, Sungrazer Project
 
-## Summary
+## Summary for SOHO
 
 * Until SOHO-4000
 
@@ -34,6 +35,14 @@ Included data from 1996 to 2020 (June).
 ---
 
 Congratulations to you all! ⭐
+
+## Summary for STEREO
+
+See [here](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/STEREO).
+
+The summary is [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/STEREO/summary/based-on-data-1.csv).
+
+Sorted table, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/STEREO/summary/based-on-data-1-sorted.csv).
 
 ## Disclaimer
 I can't guarantee a 100% completeness and correctness of the data. I expressly reject any claims against me due to incorrect data (see sources).
