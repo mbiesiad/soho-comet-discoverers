@@ -26,17 +26,17 @@ Listed discoverers & their SOHO discoveries. Credits: ESA/NASA SOHO/LASCO, Sungr
 
 * Until SOHO-4000 - **sungrazers** (Kreutz + NonKreutz: Meyer, Kracht, Kracht II, Marsden, below):
 
-o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/sungrazers-1.csv)
+o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/sungrazers-1.csv)
 
-o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/sungrazers-1-sorted.csv)
+o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/sungrazers-1-sorted.csv)
 
 ## Kreutz
 
 * Until SOHO-4000 - for **Kreutz** group
 
-The summary until **SOHO-4000** is available [HERE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/until-SOHO-4000.csv).
+The summary until **SOHO-4000** is available [HERE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/until-SOHO-4000.csv).
 
-Sorted table, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/summary/until-SOHO-4000-sorted.csv).
+Sorted table, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/until-SOHO-4000-sorted.csv).
 
 Included data from 1996 to 2020 (June).
 
@@ -96,6 +96,8 @@ See [here](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/STEREO
 The summary is [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/STEREO/summary/based-on-data-1.csv).
 
 Sorted table, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/STEREO/summary/based-on-data-1-sorted.csv).
+
+Stats for countries, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/STEREO/summary/countries-stats-1.csv).
 
 ## Disclaimer
 I can't guarantee a 100% completeness and correctness of the data. I expressly reject any claims against me due to incorrect data (see sources).
