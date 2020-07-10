@@ -3,7 +3,7 @@
 Your contribution is warmly welcome!
 
 If you see something incorrect, please use an issue or contact with me directly.
-If you want add or improve something - just make a fork & PR, fell free. Work on develop branch.
+If you want add or improve something - just make a fork & PR, fell free. Work on [develop branch](https://github.com/mbiesiad/soho-comet-discoverers/tree/develop).
 
 ## TODO
 
@@ -14,6 +14,8 @@ If you want add or improve something - just make a fork & PR, fell free. Work on
 ✅ Add discoveries for >=2016
 
 ✅ It would be interesting to create statistics for individual years, it would also show the activity of discoverers in given years [separate catalog]
+
+✅ It would be interesting to create statistics for nationalities: countries / continents of discoverers. Then we can create a visual map. [separate catalog] //but be sure with permissions (GDPR).
 
 The basic data format should be `csv` here.
 
