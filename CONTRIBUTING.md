@@ -7,15 +7,15 @@ If you want add or improve something - just make a fork & PR, fell free. Work on
 
 ## TODO
 
-✅ Good to see - languages versions [ie. 'locale' directory].
+✅ 1.Good to see - languages versions [ie. 'locale' directory].
 
-✅ Add more formats (ie. json, xml) [separate catalog].
+✅ 2.Add more formats (ie. json, xml) [separate catalog].
 
-✅ Add discoveries for >=2016
+✅ 3.Add more discoveries for >=2016
 
-✅ It would be interesting to create statistics for individual years, it would also show the activity of discoverers in given years [separate catalog]
+✅ 4.It would be interesting to create statistics for individual years, it would also show the activity of discoverers in given years [separate catalog]
 
-✅ It would be interesting to create statistics for nationalities: countries / continents of discoverers. Then we can create a visual map. [separate catalog] //but be sure with permissions (GDPR).
+✅ 5.It would be interesting to create statistics for nationalities: countries / continents of discoverers. Then we can create a visual map. [separate catalog] //but be sure with permissions (GDPR) or make anonymous.
 
 The basic data format should be `csv` here.
 
