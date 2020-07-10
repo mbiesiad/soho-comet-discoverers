@@ -15,6 +15,8 @@ If you want add or improve something - just make a fork & PR, fell free. Work on
 
 ✅ It would be interesting to create statistics for individual years, it would also show the activity of discoverers in given years [separate catalog]
 
+✅ It would be interesting to create statistics for nationalities: countries / continents of discoverers. Then we can make a visual map. [separate catalog]
+
 The basic data format should be `csv` here.
 
 _Update: last updated 2020/7/8_
