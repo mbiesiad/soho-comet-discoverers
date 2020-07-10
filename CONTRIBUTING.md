@@ -17,8 +17,6 @@ If you want add or improve something - just make a fork & PR, fell free. Work on
 
 ✅ 5.It would be interesting to create statistics for nationalities: countries / continents of discoverers. Then we can create a visual map. [separate catalog] //but be sure with permissions (GDPR) or make anonymous.
 
-✅ It would be interesting to create statistics for nationalities: countries / continents of discoverers. Then we can create a visual map. [separate catalog] //but be sure with permissions (GDPR).
-
 The basic data format should be `csv` here.
 
 _Update: last updated 2020/7/8_
