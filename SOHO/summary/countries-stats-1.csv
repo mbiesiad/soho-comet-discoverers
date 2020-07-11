@@ -1,1 +1,11 @@
 ID_country,Country,Continent,Number_discoverers,Number_discoveries
+1,AUS,Oceania,4,43
+2,CHN,Asia,27,1186
+3,DEU,Europe,3,405
+4,FRA,Europe,2,103
+5,GBR,Europe,2,149
+6,GRC,Europe,1,5
+7,IND,Asia,2,13
+8,ITA,Europe,5,42
+9,JPN,Asia,,356
+10,N/A,N/A,34,565
