@@ -30,6 +30,8 @@ o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/s
 
 o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/sungrazers-1-sorted.csv)
 
+o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/SOHO/summary).
+
 ## Kreutz
 
 * Until SOHO-4000 - for **Kreutz** group
@@ -97,7 +99,7 @@ The summary is [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/ma
 
 Sorted table, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/STEREO/summary/based-on-data-1-sorted.csv).
 
-Stats for countries, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/STEREO/summary/countries-stats-1.csv).
+Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/STEREO/summary/countries-stats-1.csv).
 
 ## Disclaimer
 I can't guarantee a 100% completeness and correctness of the data. I expressly reject any claims against me due to incorrect data (see sources).
