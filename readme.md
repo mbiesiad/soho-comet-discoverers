@@ -30,7 +30,9 @@ o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/s
 
 o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/sungrazers-1-sorted.csv)
 
-o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1.csv).
+o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1.csv). Sorted: [comets](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1-sorted-comets.csv) & [discoverers](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1-sorted-discoverers.csv).
+
+*Please, remember that is like a preview. Sorry for potential mistakes. The real stats can be little different (see N/A for instance).*
 
 ## Kreutz
 
@@ -99,7 +101,9 @@ The summary is [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/ma
 
 Sorted table, [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/STEREO/summary/based-on-data-1-sorted.csv).
 
-Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/STEREO/summary/countries-stats-1.csv).
+Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/STEREO/summary/countries-stats-1.csv). Sorted: [comets](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/STEREO/summary/countries-stats-1-sorted-comets.csv) & [discoverers](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/STEREO/summary/countries-stats-1-sorted-discoverers.csv).
+
+*Please, remember that is like a preview. Sorry for potential mistakes. The real stats can be little different (see N/A for instance).*
 
 ## Disclaimer
 I can't guarantee a 100% completeness and correctness of the data. I expressly reject any claims against me due to incorrect data (see sources).
