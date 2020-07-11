@@ -30,7 +30,7 @@ o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/s
 
 o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/sungrazers-1-sorted.csv)
 
-o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/tree/master/SOHO/summary).
+o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1.csv).
 
 ## Kreutz
 
