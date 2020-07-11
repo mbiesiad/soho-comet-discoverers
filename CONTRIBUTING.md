@@ -19,6 +19,8 @@ If you want add or improve something - just make a fork & PR, fell free. Work on
 
 The basic data format should be `csv` here.
 
+PS. For countries use [Country Codes –ISO 3166, Alpha-3](https://www.stats.gov.sa/sites/default/files/national_directory_of_states_and_nationalities2017en.pdf).
+
 _Update: last updated 2020/7/8_
 
 ## Translations
