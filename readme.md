@@ -36,7 +36,7 @@ o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/s
 
 Updates
 * after SOHO-4000, date: 2020-7-23:
-o [TABLE]()
+o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/updates/sungrazers-upd-1.csv)
 
 *Based on data included here & [nasa-comets](https://github.com/mbiesiad/nasa-comets) project*
 
