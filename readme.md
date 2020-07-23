@@ -34,6 +34,12 @@ o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/s
 
 *Please, remember that is like a preview. Sorry for potential mistakes. The real stats can be little different (see N/A for instance).*
 
+Updates
+* after SOHO-4000, date: 2020-7-23:
+o [TABLE]()
+
+*Based on data included here & [nasa-comets](https://github.com/mbiesiad/nasa-comets) project*
+
 ## Kreutz
 
 * Until SOHO-4000 - for **Kreutz** group
