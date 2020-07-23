@@ -24,7 +24,7 @@ Listed discoverers & their SOHO discoveries. Credits: ESA/NASA SOHO/LASCO, Sungr
 
 ## Sungrazers
 
-* Until SOHO-4000 - **sungrazers** (Kreutz + NonKreutz: Meyer, Kracht, Kracht II, Marsden, below):
+* Until SOHO-4000 - **sungrazers** (Kreutz + NonKreutz: Meyer, Kracht, Kracht II, Marsden, NonGroup, below):
 
 o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/sungrazers-1.csv)
 
@@ -33,6 +33,12 @@ o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop
 o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1.csv). Sorted: [comets](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1-sorted-comets.csv) & [discoverers](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1-sorted-discoverers.csv).
 
 *Please, remember that is like a preview. Sorry for potential mistakes. The real stats can be little different (see N/A for instance).*
+
+Updates
+* after SOHO-4000, date: 2020-7-23:
+o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/updates/sungrazers-upd-1.csv)
+
+*Based on data included here & [nasa-comets](https://github.com/mbiesiad/nasa-comets) project*
 
 ## Kreutz
 
