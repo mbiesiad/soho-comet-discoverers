@@ -5,6 +5,15 @@ Extension of the project [nasa-comets](https://github.com/mbiesiad/nasa-comets).
 ## Content
 * [Intro](#intro)
 * [Summary for SOHO](#summary-for-soho)
+* [Sungrazers](#sungrazers)
+* [Updates](#updates)
+* [Kreutz](#kreutz)
+* [NonKreutz](#nonkreutz)
+* [Meyer](#meyer)
+* [Marsden](#marsden)
+* [Kracht](#kracht)
+* [Kracht-II](#kracht--ii)
+* [NonGroup](#nongroup)
 * [Summary for STEREO](#summary-for-stereo)
 * [Disclaimer](#disclaimer)
 * [Contributing](#contributing)
@@ -33,6 +42,8 @@ o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop
 o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1.csv). Sorted: [comets](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1-sorted-comets.csv) & [discoverers](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1-sorted-discoverers.csv).
 
 *Please, remember that is like a preview. Sorry for potential mistakes. The real stats can be little different (see N/A for instance).*
+
+## Updates
 
 Updates [here](https://github.com/mbiesiad/soho-comet-discoverers/tree/develop/SOHO/summary/updates)
 * 4# after SOHO-4000, date: 2020-10-27:
