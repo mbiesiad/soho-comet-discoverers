@@ -12,7 +12,7 @@ Extension of the project [nasa-comets](https://github.com/mbiesiad/nasa-comets).
 * [Meyer](#meyer)
 * [Marsden](#marsden)
 * [Kracht](#kracht)
-* [Kracht-II](#kracht--ii)
+* [Kracht-II](#kracht-ii)
 * [NonGroup](#nongroup)
 * [Summary for STEREO](#summary-for-stereo)
 * [Disclaimer](#disclaimer)
