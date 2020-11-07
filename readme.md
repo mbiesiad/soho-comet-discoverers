@@ -160,4 +160,4 @@ Created by @[mbiesiad](https://github.com/mbiesiad) & supported by awesome [cont
 
 See also another project about [nasa-comets](https://github.com/mbiesiad/nasa-comets) or [my discoveries](https://github.com/mbiesiad/discoveries-biesiada).
 
-Last updated: 8/7/2020
+Last updated: 7/11/2020
