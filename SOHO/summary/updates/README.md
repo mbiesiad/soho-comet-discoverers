@@ -1,5 +1,7 @@
 Infos:
 
+7# Update with reports-2020-12-03.csv
+
 6# Previous one with reports-2020-11-18.csv (source as before)
 
 5# Fix with: https://github.com/mbiesiad/nasa-comets/blob/master/since-2016/2020/drafts/reports-2020-10-28.csv
