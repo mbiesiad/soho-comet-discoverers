@@ -46,6 +46,8 @@ o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/s
 ## Updates
 
 Updates [here](https://github.com/mbiesiad/soho-comet-discoverers/tree/develop/SOHO/summary/updates)
+* 7# after SOHO-4000, date: 2020-12-03:
+o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/SOHO/summary/updates/sungrazers-upd-7.csv)
 * 4# after SOHO-4000, date: 2020-10-27:
 o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/SOHO/summary/updates/sungrazers-upd-4.csv)
 * 3# after SOHO-4000, date: 2020-9-1:
