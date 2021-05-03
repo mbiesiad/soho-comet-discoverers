@@ -16,6 +16,7 @@ Extension of the project [nasa-comets](https://github.com/mbiesiad/nasa-comets).
 * [NonGroup](#nongroup)
 * [Summary for STEREO](#summary-for-stereo)
 * [Disclaimer](#disclaimer)
+* [Acknowledgments](#acknowledgments)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
@@ -136,6 +137,10 @@ I can't guarantee a 100% completeness and correctness of the data. I expressly r
 *If you want delete your name - please create an issue or contact with me directly.*
 
 PS. It's not an official Project repo.
+
+## Acknowledgments
+
+Many thanks for Peter B. for informing me about the temporary issue with his assignments to individual groups (fixed: 2021-05-03).
 
 ## Contributing
 
