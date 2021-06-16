@@ -21,6 +21,9 @@ Please treat it more as a `preview`. If you see something incorrect, feel free t
 
 Listed discoverers & their SOHO discoveries. Credits: ESA/NASA SOHO/LASCO, Sungrazer Project
 
+⚠️ _Update-1:_
+Things have changed in recent months. Now, the project has a new, awesome, modern style page with extended stats. I have some new ideas for bigger, more serious modifications here, but that will also depend on the time available, we'll see. Sorry if some data are not up-to-date at this moment, I'll think about what to do with it. Perhaps the project will be close soon. Thanks for all, you're great! Best wishes.
+
 ## Summary for SOHO
 
 ## Sungrazers
