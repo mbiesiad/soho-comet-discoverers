@@ -145,7 +145,9 @@ PS. It's not an official Project repo.
 
 ## Acknowledgments
 
-Many thanks for Peter B. for informing me about the temporary issue with his assignments to individual groups (fixed: 2021-05-03).
+Many thanks for:
+* Peter B. for informing me about the temporary issue with his assignments to individual groups (fixed: 2021-05-03).
+* Robert P. by supporting the many sub-projects connected with Sungrazer.
 
 ## Contributing
 
