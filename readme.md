@@ -39,9 +39,9 @@ Things have changed in recent months. Now, the project has a new, awesome, moder
 
 * Until SOHO-4000 - **sungrazers** (Kreutz + NonKreutz: Meyer, Kracht, Kracht II, Marsden, NonGroup, below):
 
-o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/SOHO/summary/updates/sungrazers-upd-7.csv)
+o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/SOHO/summary/updates/sungrazers-upd-10.csv)
 
-o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/SOHO/summary/sungrazers-upd7-sorted.csv)
+o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/SOHO/summary/sungrazers-upd10-sorted.csv)
 
 o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1.csv). Sorted: [comets](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1-sorted-comets.csv) & [discoverers](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1-sorted-discoverers.csv).
 
