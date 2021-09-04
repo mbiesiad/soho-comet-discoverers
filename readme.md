@@ -5,6 +5,15 @@ Extension of the project [nasa-comets](https://github.com/mbiesiad/nasa-comets).
 ## Content
 * [Intro](#intro)
 * [Summary for SOHO](#summary-for-soho)
+* [Sungrazers](#sungrazers)
+* [Updates](#updates)
+* [Kreutz](#kreutz)
+* [NonKreutz](#nonkreutz)
+* [Meyer](#meyer)
+* [Marsden](#marsden)
+* [Kracht](#kracht)
+* [Kracht-II](#kracht-ii)
+* [NonGroup](#nongroup)
 * [Summary for STEREO](#summary-for-stereo)
 * [Disclaimer](#disclaimer)
 * [Acknowledgments](#acknowledgments)
@@ -30,20 +39,28 @@ Things have changed in recent months. Now, the project has a new, awesome, moder
 
 * Until SOHO-4000 - **sungrazers** (Kreutz + NonKreutz: Meyer, Kracht, Kracht II, Marsden, NonGroup, below):
 
-o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/sungrazers-1.csv)
+o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/SOHO/summary/updates/sungrazers-upd-10.csv)
 
-o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/sungrazers-1-sorted.csv)
+o [SORTED TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/SOHO/summary/sungrazers-upd10-sorted.csv)
 
 o Stats for countries (preview statistics), [here](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1.csv). Sorted: [comets](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1-sorted-comets.csv) & [discoverers](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/countries-stats-1-sorted-discoverers.csv).
 
 *Please, remember that is like a preview. Sorry for potential mistakes. The real stats can be little different (see N/A for instance).*
 
+## Updates
+
 Updates [here](https://github.com/mbiesiad/soho-comet-discoverers/tree/develop/SOHO/summary/updates)
-* after SOHO-4000, date: 2020-9-1:
+* 10# after SOHO-4000, date: 2021-07-13:
+o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/SOHO/summary/updates/sungrazers-upd-10.csv)
+* 7# after SOHO-4000, date: 2020-12-03:
+o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/SOHO/summary/updates/sungrazers-upd-7.csv)
+* 4# after SOHO-4000, date: 2020-10-27:
+o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/master/SOHO/summary/updates/sungrazers-upd-4.csv)
+* 3# after SOHO-4000, date: 2020-9-1:
 o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/updates/sungrazers-upd-3.csv)
-* after SOHO-4000, date: 2020-8-3:
+* 2# after SOHO-4000, date: 2020-8-3:
 o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/updates/sungrazers-upd-2.csv)
-* after SOHO-4000, date: 2020-7-23:
+* 1# after SOHO-4000, date: 2020-7-23:
 o [TABLE](https://github.com/mbiesiad/soho-comet-discoverers/blob/develop/SOHO/summary/updates/sungrazers-upd-1.csv)
 
 *Based on data included here & [nasa-comets](https://github.com/mbiesiad/nasa-comets) project*
@@ -128,7 +145,9 @@ PS. It's not an official Project repo.
 
 ## Acknowledgments
 
-Many thanks for Peter B. for informing me about the temporary issue with his assignments to individual groups (fixed: 2021-05-03).
+Many thanks for:
+* Peter B. for informing me about the temporary issue with his assignments to individual groups (fixed: 2021-05-03).
+* Robert P. by supporting the many sub-projects connected with Sungrazer.
 
 ## Contributing
 
@@ -155,4 +174,4 @@ Created by @[mbiesiad](https://github.com/mbiesiad) & supported by awesome [cont
 
 See also another project about [nasa-comets](https://github.com/mbiesiad/nasa-comets) or [my discoveries](https://github.com/mbiesiad/discoveries-biesiada).
 
-Last updated: 8/7/2020
+Last updated: 7/11/2020
